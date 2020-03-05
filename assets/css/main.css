@@ -3695,6 +3695,10 @@ input, select, textarea {
 			text-align: center;
 		}
 
+    #footer dd {
+      overflow-wrap: anywhere;
+    }
+
 		@media screen and (max-width: 1280px) {
 
 			#footer {
